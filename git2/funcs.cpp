@@ -2,7 +2,7 @@
 #include <cmath>
 double Sum(double a, double b)
 {
-   return 1;
+   return a+b;
 }
 double Sub(double a, double b)
 {
