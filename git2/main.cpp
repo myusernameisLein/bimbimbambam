@@ -16,22 +16,22 @@ int main()
     {
         case 1: // если count = 1
     {
-        cout <<   Sum(a,b)  << endl;
+        cout <<  " This function is not ready yet"  << endl;
         break;
     }
         case 2: // если count = 2
     {
-        cout <<  Sub(a,b)  << endl;
+        cout <<  " This function is not ready yet"  << endl;
         break;
     }
         case 3: // если count = 3
     {
-        cout <<  Mul(a,b)  << endl;
+        cout <<  " This function is not ready yet"  << endl;
         break;
     }
         case 4: // если count = 4
     {
-        cout <<  Div(a,b)  << endl;
+        cout <<  " This function is not ready yet"  << endl;
         break;
     }
         default: // если count равно любому другому значению
