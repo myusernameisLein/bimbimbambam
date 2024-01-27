@@ -2,11 +2,11 @@
 #include <cmath>
 double Sum(double a, double b)
 {
-   return a+b;
+   return 1;
 }
 double Sub(double a, double b)
 {
-    return 1;
+    return a-b;
 }
 double Mul(double a, double b)
 {
