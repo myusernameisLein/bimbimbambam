@@ -31,7 +31,7 @@ int main()
     }
         case 4: // если count = 4
     {
-        cout <<  " This function is not ready yet"  << endl;
+        cout <<   Div(a,b)  << endl;
         break;
     }
         default: // если count равно любому другому значению

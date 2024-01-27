@@ -14,5 +14,5 @@ double Mul(double a, double b)
 }
 double Div(double a, double b)
 {
-    return a/bsl;
+    return a/b;
 }
