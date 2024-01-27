@@ -26,7 +26,7 @@ int main()
     }
         case 3: // если count = 3
     {
-        cout <<  " This function is not ready yet"  << endl;
+        cout << Mul(a,b)  << endl;
         break;
     }
         case 4: // если count = 4
