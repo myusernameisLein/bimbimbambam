@@ -10,7 +10,7 @@ double Sub(double a, double b)
 }
 double Mul(double a, double b)
 {
-    return 1;
+    return a*b;
 }
 double Div(double a, double b)
 {
